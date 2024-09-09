@@ -1,0 +1,102 @@
+/*
+.detalle-cliente-container {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .detalle-cliente-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .detalle-cliente-header h2 {
+    margin: 0;
+  }
+  
+  .detalle-cliente-body {
+    padding: 10px;
+  }
+  
+  .detalle-cliente-item {
+    margin-bottom: 15px;
+  }
+  
+  .detalle-cliente-item label {
+    font-weight: bold;
+  }
+  
+  .input-editable {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .btn-editar,
+  .btn-guardar {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .btn-guardar {
+    background-color: #28a745;
+  }
+  
+  .btn-editar:hover,
+  .btn-guardar:hover {
+    opacity: 0.8;
+  }
+  */
+  .detail-card {
+    width: 300px;
+    margin: 0 auto;
+    padding: 60px;
+    border: 2px solid #ccc;
+    border-radius: 19px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+  
+  .boton-editar {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .boton-editar button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .boton-editar button:hover {
+    background-color: #0056b3;
+  }
+  
